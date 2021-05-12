@@ -1,0 +1,857 @@
+[
+    {
+        "topicUrl": "https://github.com/topics/aspnet",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+                "issues": [
+                    {
+                        "heading": "Abp custom SwaggerUI javascript interfering with Auth button functionality",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6141"
+                    },
+                    {
+                        "heading": "A numeric comparison was attempted on \"$(MsBuildMajorVersion)\" that evaluates to \"\" instead of a number, in condition \"($(MsBuildMajorVersion) < 16)\"",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6140"
+                    },
+                    {
+                        "heading": "Disable dynamic API according to configuration",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6139"
+                    },
+                    {
+                        "heading": "How to disable an IEventHandler (for testing)",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6138"
+                    },
+                    {
+                        "heading": "IdentityServer4 and JwtTokenMiddleware integration issue",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6136"
+                    },
+                    {
+                        "heading": "DB migration based on environment",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6133"
+                    },
+                    {
+                        "heading": "Oracle OPD.NET provider bug: \"An error occurred using a transaction.\" (ORA-00900)",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6132"
+                    },
+                    {
+                        "heading": "Enable https in project by default",
+                        "url": "https://github.com/aspnetboilerplate/aspnetboilerplate/issues/6131"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/dotnet/AspNetCore.Docs",
+                "issues": [
+                    {
+                        "heading": "Add Trust the certificate with Fedora 34",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22268"
+                    },
+                    {
+                        "heading": "Document specific DPAPI dependencies in ASP.NET",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22263"
+                    },
+                    {
+                        "heading": "c:\\tmp assumed to exist",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22261"
+                    },
+                    {
+                        "heading": "ASPNETCORE_MODULE_DEBUG_FILE Environment Variable doesn't work.",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22273"
+                    },
+                    {
+                        "heading": "Missing Guidance on VSCode setup for SignalR with Blazor",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22234"
+                    },
+                    {
+                        "heading": "Need to call ModelState.Clear(); before rerunning validation",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22233"
+                    },
+                    {
+                        "heading": "Resource is not an EndPoint or an AuthorizationFilterContext",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22228"
+                    },
+                    {
+                        "heading": "Missing documentation for the view argument",
+                        "url": "https://github.com/dotnet/AspNetCore.Docs/issues/22227"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/bitwarden/server",
+                "issues": [
+                    {
+                        "heading": "[sec] Review network settings",
+                        "url": "https://github.com/bitwarden/server/issues/1303"
+                    },
+                    {
+                        "heading": "Permission error while trying to install to a CIFS volume",
+                        "url": "https://github.com/bitwarden/server/issues/1282"
+                    },
+                    {
+                        "heading": "\"Create Account\" Button should be inactive/hidden when \"globalSettings__disableUserRegistration=true\"",
+                        "url": "https://github.com/bitwarden/server/issues/1268"
+                    },
+                    {
+                        "heading": "Uploading license results in 'invalid license'",
+                        "url": "https://github.com/bitwarden/server/issues/1256"
+                    },
+                    {
+                        "heading": "Identity Server Timeout",
+                        "url": "https://github.com/bitwarden/server/issues/1225"
+                    },
+                    {
+                        "heading": "Mail: unhandled exception",
+                        "url": "https://github.com/bitwarden/server/issues/1218"
+                    },
+                    {
+                        "heading": "Send file has filesize of 0 bytes, likely due to failed authentication",
+                        "url": "https://github.com/bitwarden/server/issues/1206"
+                    },
+                    {
+                        "heading": "Import from LastPass CSV fails to import text on Note when followed by carriage return",
+                        "url": "https://github.com/bitwarden/server/issues/1197"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/ElectronNET/Electron.NET",
+                "issues": [
+                    {
+                        "heading": "Error when using electronize start behind proxy?",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/564"
+                    },
+                    {
+                        "heading": "ShowOpenDialogAsync doesn't return when openDirectory is used on Mac",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/563"
+                    },
+                    {
+                        "heading": "Option to run custom code inside main.js",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/558"
+                    },
+                    {
+                        "heading": "Electron host hangs if ASP.NET Core app crashes before connecting bridge",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/557"
+                    },
+                    {
+                        "heading": "Electron.App.IsReady returns false, but the ASP.NET Core app is only launched after the app.ready event fires.",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/556"
+                    },
+                    {
+                        "heading": "Can't change UserData path before Electron is ready",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/555"
+                    },
+                    {
+                        "heading": "Electron.IpcMain.On doesn't allow for event parameter",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/554"
+                    },
+                    {
+                        "heading": "Using the latest electron.net (9) compatible with .NET LTS (Core 3.1) is using an unsupported version of electron (9)",
+                        "url": "https://github.com/ElectronNET/Electron.NET/issues/552"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/RicoSuter/NSwag",
+                "issues": [
+                    {
+                        "heading": "rxjs version 7 not working with Nswag",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3463"
+                    },
+                    {
+                        "heading": "Can product the TypeScript instance default value accord c# entity empty constructor?",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3462"
+                    },
+                    {
+                        "heading": "info object version should be string instead of number according to open api spec",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3461"
+                    },
+                    {
+                        "heading": "Generate Typescript Typings Declaration file for Angular client",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3455"
+                    },
+                    {
+                        "heading": "Include a namespace as static",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3454"
+                    },
+                    {
+                        "heading": "Grouping of controllers with NSwag",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3453"
+                    },
+                    {
+                        "heading": "Endpoint with an operationId ending with \"_1\" results in generated code that does not compile.",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3450"
+                    },
+                    {
+                        "heading": "ApiException partly missing when referencing multiple contract files",
+                        "url": "https://github.com/RicoSuter/NSwag/issues/3448"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/thangchung/clean-code-dotnet",
+                "issues": [
+                    {
+                        "heading": "Add some of the sections from https://csharpcodingguidelines.com/",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/98"
+                    },
+                    {
+                        "heading": "Please, add vs project with cs examples in this repo",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/97"
+                    },
+                    {
+                        "heading": "SOLID. Liskov Substitution Principle (LSP). Example incorrect.",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/96"
+                    },
+                    {
+                        "heading": "Objects and Data Structures. Make objects have private/protected members",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/94"
+                    },
+                    {
+                        "heading": "Avoid conditionals",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/93"
+                    },
+                    {
+                        "heading": "CleanCodeDotnet",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/90"
+                    },
+                    {
+                        "heading": "OCP: HttpRequester Inheritance from AdapterBase does not make sense",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/88"
+                    },
+                    {
+                        "heading": "Missing IAsyncEnumerable mention in Common Async Problems",
+                        "url": "https://github.com/thangchung/clean-code-dotnet/issues/82"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/JimBobSquarePants/ImageProcessor",
+                "issues": [
+                    {
+                        "heading": "When using restrictions, image not being resized for some combinations of source image size, target image size and resize type",
+                        "url": "https://github.com/JimBobSquarePants/ImageProcessor/issues/834"
+                    },
+                    {
+                        "heading": "ImageProcessor.Web.Plugins.AmazonS3Cache first cache request gives a 500:The remote server returned an error: (404) Not Found. subsequent requests serve the image now in the cache",
+                        "url": "https://github.com/JimBobSquarePants/ImageProcessor/issues/832"
+                    },
+                    {
+                        "heading": "Image processing for {static image} has been cancelled by an event / Error processing image with Resize",
+                        "url": "https://github.com/JimBobSquarePants/ImageProcessor/issues/814"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/smartstore/SmartStoreNET",
+                "issues": [
+                    {
+                        "heading": "invisible reCaptcha not working with form-configurator",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2216"
+                    },
+                    {
+                        "heading": "Rule for shipment, unexpected result.",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2215"
+                    },
+                    {
+                        "heading": "Theme styles not loading when deploy app to production",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2214"
+                    },
+                    {
+                        "heading": "Adding CookieInfo Changes previously added LocalizedProperty values",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2208"
+                    },
+                    {
+                        "heading": "Updating privacy setting deletes CookieInfos",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2206"
+                    },
+                    {
+                        "heading": "News: Fully straighten up with blog",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2205"
+                    },
+                    {
+                        "heading": "购物车估算运费 bug",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2204"
+                    },
+                    {
+                        "heading": "png in product show as video object",
+                        "url": "https://github.com/smartstore/SmartStoreNET/issues/2201"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://github.com/topics/nodejs",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/freeCodeCamp/freeCodeCamp",
+                "issues": [
+                    {
+                        "heading": "Caching static assets",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42107"
+                    },
+                    {
+                        "heading": "iPadOS Curriculum Incompatibility",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42102"
+                    },
+                    {
+                        "heading": "The strip-comments library may have broken Safari support",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42101"
+                    },
+                    {
+                        "heading": "Dependency Dashboard",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42030"
+                    },
+                    {
+                        "heading": "Bug: uBlock Origin breaks certain javascript challenges",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41995"
+                    },
+                    {
+                        "heading": "Tests for curriculum helpers",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41994"
+                    },
+                    {
+                        "heading": "Replace Selenium with Cypress in the testable-projects-fcc Repo",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41967"
+                    },
+                    {
+                        "heading": "Missing carriage returns in main example in lesson",
+                        "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41954"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/electron/electron",
+                "issues": [
+                    {
+                        "heading": "[Bug]: Auto updater consumes 100% percent CPU when waiting on user password",
+                        "url": "https://github.com/electron/electron/issues/29119"
+                    },
+                    {
+                        "heading": "[Feature Request]: Build with PipeWire by default in Linux",
+                        "url": "https://github.com/electron/electron/issues/29115"
+                    },
+                    {
+                        "heading": "[Bug]: webview's DOM operations do not execute when the webview is out of the viewport",
+                        "url": "https://github.com/electron/electron/issues/29113"
+                    },
+                    {
+                        "heading": "[Bug]: Electron crash when call qt gui",
+                        "url": "https://github.com/electron/electron/issues/29112"
+                    },
+                    {
+                        "heading": "[Bug]: Hardened runtime causes blank screen in MAS app on Apple Silicon",
+                        "url": "https://github.com/electron/electron/issues/29102"
+                    },
+                    {
+                        "heading": "[Bug]: maximum size isn't respected correctly when aspect ratio is enabled",
+                        "url": "https://github.com/electron/electron/issues/29100"
+                    },
+                    {
+                        "heading": "[Bug]: unable to open window from window create with native window open",
+                        "url": "https://github.com/electron/electron/issues/29094"
+                    },
+                    {
+                        "heading": "[Bug]: PDF containing hyperlinks don't work when clicking on them",
+                        "url": "https://github.com/electron/electron/issues/29091"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/axios/axios",
+                "issues": [
+                    {
+                        "heading": "axios exit without any log in bad network environment",
+                        "url": "https://github.com/axios/axios/issues/3793"
+                    },
+                    {
+                        "heading": "Testing with typescript missing interceptor property",
+                        "url": "https://github.com/axios/axios/issues/3792"
+                    },
+                    {
+                        "heading": "Not working as expected running with vm.runInNewContext",
+                        "url": "https://github.com/axios/axios/issues/3790"
+                    },
+                    {
+                        "heading": "Getting network error when sending form data",
+                        "url": "https://github.com/axios/axios/issues/3788"
+                    },
+                    {
+                        "heading": "Axios freezes or does not cleans connection properly when is input stream destroyed or throws error",
+                        "url": "https://github.com/axios/axios/issues/3780"
+                    },
+                    {
+                        "heading": "Get json response from blob response type",
+                        "url": "https://github.com/axios/axios/issues/3779"
+                    },
+                    {
+                        "heading": "500 Error when I do post an object",
+                        "url": "https://github.com/axios/axios/issues/3776"
+                    },
+                    {
+                        "heading": "Axios leaks streams when it does not fully read them",
+                        "url": "https://github.com/axios/axios/issues/3770"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/nodejs/node",
+                "issues": [
+                    {
+                        "heading": "Error while trying to spawn a child process",
+                        "url": "https://github.com/nodejs/node/issues/38649"
+                    },
+                    {
+                        "heading": "doc: syntax-highlighted JSDoc comments in dark mode are low-visibility",
+                        "url": "https://github.com/nodejs/node/issues/38641"
+                    },
+                    {
+                        "heading": "Add fs.createReadStream & fs.createWriteStream to fs.promises",
+                        "url": "https://github.com/nodejs/node/issues/38627"
+                    },
+                    {
+                        "heading": "Feature Request: include missing pipe info in diagnostic report",
+                        "url": "https://github.com/nodejs/node/issues/38625"
+                    },
+                    {
+                        "heading": "Feature Request: Safe/reliable crypto.KeyObject and webcrypto.CryptoKey detection in userland",
+                        "url": "https://github.com/nodejs/node/issues/38611"
+                    },
+                    {
+                        "heading": "Proposal: Introduce codemod tools for long-term refactoring works",
+                        "url": "https://github.com/nodejs/node/issues/38609"
+                    },
+                    {
+                        "heading": "Correct the error type of fs.writeFile with read-only mode",
+                        "url": "https://github.com/nodejs/node/issues/38607"
+                    },
+                    {
+                        "heading": "doc: Missing instance method for fs.createWriteStream()",
+                        "url": "https://github.com/nodejs/node/issues/38606"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/30-seconds/30-seconds-of-code",
+                "issues": [
+                    {
+                        "heading": "V1.2.3",
+                        "url": "https://github.com/30-seconds/30-seconds-of-code/issues/1794"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/goldbergyoni/nodebestpractices",
+                "issues": [
+                    {
+                        "heading": "Welcome rluvaton as a new member in the maintainers team",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/969"
+                    },
+                    {
+                        "heading": "mini example / starter",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/967"
+                    },
+                    {
+                        "heading": "[Bullet Point Idea] Use map with async with caution",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/960"
+                    },
+                    {
+                        "heading": "Expire JWT page refers to outdated / discontinued packages",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/955"
+                    },
+                    {
+                        "heading": "Component communication",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/954"
+                    },
+                    {
+                        "heading": "Idea for a new bullet point",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/945"
+                    },
+                    {
+                        "heading": "update the translation for password hashing as it renamed and updated",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/942"
+                    },
+                    {
+                        "heading": "[Suggestion] Use a dedicated tool to help with the translations",
+                        "url": "https://github.com/goldbergyoni/nodebestpractices/issues/939"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/expressjs/express",
+                "issues": [
+                    {
+                        "heading": "Whether there was a way to begin sending the zip file as its being generated?",
+                        "url": "https://github.com/expressjs/express/issues/4582"
+                    },
+                    {
+                        "heading": "Increase response stream buffer (highwatermark)",
+                        "url": "https://github.com/expressjs/express/issues/4567"
+                    },
+                    {
+                        "heading": "App.use(path, ...) Does Not Mount at '//'",
+                        "url": "https://github.com/expressjs/express/issues/4557"
+                    },
+                    {
+                        "heading": "Some fetch similarities",
+                        "url": "https://github.com/expressjs/express/issues/4536"
+                    },
+                    {
+                        "heading": "Node.js 15+ starts recommending promise based versions by default - Express 5.0 and wrapAsync",
+                        "url": "https://github.com/expressjs/express/issues/4535"
+                    },
+                    {
+                        "heading": "HTTP Performance regression some release after Node.js 12.16.1 using express",
+                        "url": "https://github.com/expressjs/express/issues/4532"
+                    },
+                    {
+                        "heading": "Add Examples on \"Adding API Based CMS Capability\" ",
+                        "url": "https://github.com/expressjs/express/issues/4531"
+                    },
+                    {
+                        "heading": "Router events (enabling route documentation) – feature request",
+                        "url": "https://github.com/expressjs/express/issues/4523"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/nvm-sh/nvm",
+                "issues": [
+                    {
+                        "heading": "Can't install node on ubuntu 21.04",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2504"
+                    },
+                    {
+                        "heading": "Can't use nvm in VS Code Remote WSL",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2503"
+                    },
+                    {
+                        "heading": "nvm not install ",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2498"
+                    },
+                    {
+                        "heading": "nvm ls outputs colour codes when piped to another command",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2497"
+                    },
+                    {
+                        "heading": "compinit (and bashcompinit) should not be called in the completion script for ZSH",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2495"
+                    },
+                    {
+                        "heading": "Failed to install with errors; First error is Permission Denied; then Binary download failed, trying source.",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2492"
+                    },
+                    {
+                        "heading": "nvm v0.38.0: node url not found",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2488"
+                    },
+                    {
+                        "heading": "HEAD detached at FETCH_HEAD",
+                        "url": "https://github.com/nvm-sh/nvm/issues/2486"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://github.com/topics/koa",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/strapi/strapi",
+                "issues": [
+                    {
+                        "heading": "Collection Types missing from Content-Types Builder after upgrade",
+                        "url": "https://github.com/strapi/strapi/issues/10303"
+                    },
+                    {
+                        "heading": "Unable to connect Strapi with MongoDB Atlas",
+                        "url": "https://github.com/strapi/strapi/issues/10298"
+                    },
+                    {
+                        "heading": "Default values not working when item is created via strapi.query",
+                        "url": "https://github.com/strapi/strapi/issues/10295"
+                    },
+                    {
+                        "heading": "Webhook link is wrong",
+                        "url": "https://github.com/strapi/strapi/issues/10294"
+                    },
+                    {
+                        "heading": "PostgreSQL: ERROR: relation \"core_store\" does not exist at character 13",
+                        "url": "https://github.com/strapi/strapi/issues/10290"
+                    },
+                    {
+                        "heading": "Strapi admin page will not load when using a non-default URL behind a reverse proxy",
+                        "url": "https://github.com/strapi/strapi/issues/10286"
+                    },
+                    {
+                        "heading": "strapi-plugin-documentation: some settings not overridable",
+                        "url": "https://github.com/strapi/strapi/issues/10278"
+                    },
+                    {
+                        "heading": "Admin preview images are by default postfixed with a cacheRef to disable browser cache",
+                        "url": "https://github.com/strapi/strapi/issues/10274"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/koajs/koa",
+                "issues": [
+                    {
+                        "heading": "Koa Breaking with prismajs",
+                        "url": "https://github.com/koajs/koa/issues/1531"
+                    },
+                    {
+                        "heading": "Explicit-Null-Body should contains Content-Length",
+                        "url": "https://github.com/koajs/koa/issues/1525"
+                    },
+                    {
+                        "heading": "Website https://koajs.com/ out of sync with git repository content",
+                        "url": "https://github.com/koajs/koa/issues/1510"
+                    },
+                    {
+                        "heading": "Consider removing accepts dependency to reduce package size",
+                        "url": "https://github.com/koajs/koa/issues/1508"
+                    },
+                    {
+                        "heading": "Suggestion: consistent package names on NPM",
+                        "url": "https://github.com/koajs/koa/issues/1458"
+                    },
+                    {
+                        "heading": "test against the http2 compatibility layer",
+                        "url": "https://github.com/koajs/koa/issues/1454"
+                    },
+                    {
+                        "heading": "AsyncLocalStorage support",
+                        "url": "https://github.com/koajs/koa/issues/1453"
+                    },
+                    {
+                        "heading": "koa shouldn't special-case ENOENT errors",
+                        "url": "https://github.com/koajs/koa/issues/1420"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/eggjs/egg",
+                "issues": [
+                    {
+                        "heading": "egg-logger写日志文件失败导致服务器CPU打满100%",
+                        "url": "https://github.com/eggjs/egg/issues/4672"
+                    },
+                    {
+                        "heading": "sofa-node 线上阿里云ecs环境报错, 单机本地pc端运行没有异常，都为docker容器。",
+                        "url": "https://github.com/eggjs/egg/issues/4670"
+                    },
+                    {
+                        "heading": "sequelize动态修改数据库信息",
+                        "url": "https://github.com/eggjs/egg/issues/4669"
+                    },
+                    {
+                        "heading": "重写Router",
+                        "url": "https://github.com/eggjs/egg/issues/4667"
+                    },
+                    {
+                        "heading": "Error [ERR_IPC_CHANNEL_CLOSED]: Channel closed at ChildProcess.target.send (internal/child_process.js:679:16)",
+                        "url": "https://github.com/eggjs/egg/issues/4663"
+                    },
+                    {
+                        "heading": "multipart如何分开单独限制文件上传大小",
+                        "url": "https://github.com/eggjs/egg/issues/4662"
+                    },
+                    {
+                        "heading": "npm run start 启动异常的慢",
+                        "url": "https://github.com/eggjs/egg/issues/4661"
+                    },
+                    {
+                        "heading": "egg集群部署下，定时器如何防止重复执行？",
+                        "url": "https://github.com/eggjs/egg/issues/4659"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/apollographql/apollo-server",
+                "issues": [
+                    {
+                        "heading": "Documentation Request: Meteor Integration on Apollo Server Docs",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5202"
+                    },
+                    {
+                        "heading": "apollo-server-micro body stream reading issue ( when using on firebase cloud functions )",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5190"
+                    },
+                    {
+                        "heading": "Error checking for changes to service definitions & server-health",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5176"
+                    },
+                    {
+                        "heading": "AS3: Disentangle graphql-playground from the core ApolloServer API while still making it easy to use",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5159"
+                    },
+                    {
+                        "heading": "AS3: Remove API key parser",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5157"
+                    },
+                    {
+                        "heading": "Fix the emitErrorAndThrow legacy compatibility special case",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5156"
+                    },
+                    {
+                        "heading": "Make sure all backwards-incompatible changes are in CHANGELOG",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5143"
+                    },
+                    {
+                        "heading": "AS3: Make sure all important dep bumps are in CHANGELOG",
+                        "url": "https://github.com/apollographql/apollo-server/issues/5142"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/graphile/postgraphile",
+                "issues": [
+                    {
+                        "heading": "[Question] Integration with nestjs (@nestjs/graphql)",
+                        "url": "https://github.com/graphile/postgraphile/issues/1474"
+                    },
+                    {
+                        "heading": "Table Function Foreign Key not working",
+                        "url": "https://github.com/graphile/postgraphile/issues/1469"
+                    },
+                    {
+                        "heading": "TypeScript error in handleErrors",
+                        "url": "https://github.com/graphile/postgraphile/issues/1465"
+                    },
+                    {
+                        "heading": "jwtSecret should not be mandatory in order to just verify JWTs",
+                        "url": "https://github.com/graphile/postgraphile/issues/1464"
+                    },
+                    {
+                        "heading": "makeProcessSchemaPlugin and @graphql-tools/merge",
+                        "url": "https://github.com/graphile/postgraphile/issues/1463"
+                    },
+                    {
+                        "heading": "Can PostGraphile CLI have a simple basic user:pass authentication?",
+                        "url": "https://github.com/graphile/postgraphile/issues/1454"
+                    },
+                    {
+                        "heading": "Requests should time out if schema cannot be fetched in time",
+                        "url": "https://github.com/graphile/postgraphile/issues/1453"
+                    },
+                    {
+                        "heading": "Functions of compound types not sortable (despite smart tag)",
+                        "url": "https://github.com/graphile/postgraphile/issues/1450"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/aui/art-template",
+                "issues": [
+                    {
+                        "heading": "对deno的支持",
+                        "url": "https://github.com/aui/art-template/issues/637"
+                    },
+                    {
+                        "heading": "Help. 请教 vue2 项目中 如何 使用 cdn 引入 art-template 并使用？",
+                        "url": "https://github.com/aui/art-template/issues/636"
+                    },
+                    {
+                        "heading": "请问遍历对象的原始语法是怎么写？",
+                        "url": "https://github.com/aui/art-template/issues/634"
+                    },
+                    {
+                        "heading": "windows 下运行 webpack 5，使用 art-template-loader 路径解析出现错误",
+                        "url": "https://github.com/aui/art-template/issues/633"
+                    },
+                    {
+                        "heading": "Does any body know about any implementation of ART in golang?",
+                        "url": "https://github.com/aui/art-template/issues/631"
+                    },
+                    {
+                        "heading": "create-react-app中使用art-template报错",
+                        "url": "https://github.com/aui/art-template/issues/630"
+                    },
+                    {
+                        "heading": "webpack + art-template-经验.txt",
+                        "url": "https://github.com/aui/art-template/issues/629"
+                    },
+                    {
+                        "heading": "art-template-经验.txt",
+                        "url": "https://github.com/aui/art-template/issues/628"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/r-spacex/SpaceX-API",
+                "issues": [
+                    {
+                        "heading": "New App to add to the list",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/776"
+                    },
+                    {
+                        "heading": "Starlink 27 update info",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/773"
+                    },
+                    {
+                        "heading": "Boats location",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/771"
+                    },
+                    {
+                        "heading": "Inspiration4 update info",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/751"
+                    },
+                    {
+                        "heading": "New app to go on app page",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/748"
+                    },
+                    {
+                        "heading": "Patch image for Starlink 24 is wrong",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/747"
+                    },
+                    {
+                        "heading": "Getting booster (cores) info in /launches query",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/745"
+                    },
+                    {
+                        "heading": "Capsule \"dragon\" and \"last_update\" properties",
+                        "url": "https://github.com/r-spacex/SpaceX-API/issues/728"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/chenshenhai/koa2-note",
+                "issues": [
+                    {
+                        "heading": "错别字，note/chapter03/01.md，请求体重=>请求体中",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/78"
+                    },
+                    {
+                        "heading": "post数据请求其中的一个方法有点不完善",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/77"
+                    },
+                    {
+                        "heading": "koa调用接口问题",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/75"
+                    },
+                    {
+                        "heading": "SQL injection attack",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/74"
+                    },
+                    {
+                        "heading": "Demo code problem",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/73"
+                    },
+                    {
+                        "heading": "Param problem in demo code",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/72"
+                    },
+                    {
+                        "heading": "请问数据库版本是多少呢?运行数据库文件的时候出错了.",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/70"
+                    },
+                    {
+                        "heading": "route-simple",
+                        "url": "https://github.com/chenshenhai/koa2-note/issues/69"
+                    }
+                ]
+            }
+        ]
+    }
+]
